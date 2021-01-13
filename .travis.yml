@@ -10,8 +10,6 @@ addons:
     update: true
     sources:
       - google-chrome
-    packages:
-      - google-chrome-stable
   chrome: stable
 
 cache:
